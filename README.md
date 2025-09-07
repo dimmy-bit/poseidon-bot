@@ -22,7 +22,7 @@
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/YourUser/poseidon-autobot-mir.git
+git clone https://github.com/dimmy-bit/poseidon-autobot-mir.git
 cd poseidon-autobot-mir
 
 
