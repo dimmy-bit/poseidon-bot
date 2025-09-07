@@ -28,8 +28,7 @@ export async function bannerMIR() {
   console.log(gradient.pastel('='.repeat(64)));
 
   // Social links (read from env)
-  const tw = process.env.TWITTER || 'https://twitter.com/0XMIRX
-';
+  const tw = process.env.TWITTER || 'https://x.com/0XMIRX';
   const tg = process.env.TELEGRAM || 'https://t.me/mirty0';
   const gh = process.env.GITHUB || 'https://github.com/dimmy-bit';
 
