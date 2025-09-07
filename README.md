@@ -33,7 +33,7 @@ cd poseidon-bot
 ```bash
 git clone https://github.com/dimmy-bit/poseidon-bot
 
-cd PoseidonAutoBot-Custom
+cd poseidon-bot
 
 Install dependencies
 
