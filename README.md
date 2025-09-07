@@ -3,7 +3,7 @@
 # 🌊 Poseidon AutoBot (MIR Edition)
 
 > 🎙️ Automated Voice Upload Bot for Poseidon Campaigns  
-> ⚡ Customized with Banner, Menu & Colorful CLI by NT  
+> ⚡ Customized with Banner, Menu & Colorful CLI 
 
 ---
 
@@ -62,4 +62,4 @@ npm start
 
 
 
-
+DONE THANKS FOR USING AND SPEACIAL THANKS TO NT EXHAUST
